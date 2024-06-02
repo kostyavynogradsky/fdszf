@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
+}
+main p {
+    color: brown;
+    text-align: center;
+     font-family: sans-serif;
+}
+main img{
+    text-align: center;
+    height: 400px;
+    width: 600px;
+}
+nav a {
+     background-color: green;
+    color: black;
+    padding: 10px 25px;
+    border-radius:10px ;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+.d{
+   text-decoration: none;
+    padding-right: 60px; 
+    color: white; 
+}
+footer{
+    
+    text-align: center;
+    color: green;
+    font-family: sans-serif
+}
+.g{
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white; 
+}
+table img{
+    width: 30px;
+    height: 30px;
+}
