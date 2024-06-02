@@ -1,0 +1,46 @@
+<html>
+    <title> Cave </title>
+    <head>
+    <h1> Cave </h1>
+    </head>
+    <nav>
+    <a href="https://childcamp.com.ua/ua"> Табір 1 </a>
+     <a class="d" href="https://childcamp.com.ua/ua"> Табір 2 </a>
+     <a class="f" href="https://ua.educamp.com.ua/litni-tabory"> Табір 3 </a>
+     <a class="g" href="https://vlagere.com/uk/"> Табір 4 </a>
+    </nav>
+    <main>
+    <p> ЦЕ розважальний табір який буде відбуватися в Карпатах </p>
+    <p> Прийняти участь в цьому ПРЕКРАСНОМУ таборі може КОЖЕН </p>
+    <p> Від'їзд відбудеться в цю Неділю в 14:00 біля Першої Приватної Гімназії</p>
+    <p> табір триватиме 10 днів</p>
+   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Morskie_oko_o_swicie.jpg/280px-Morskie_oko_o_swicie.jpg"> </p>
+<table style="border:1px solid blue;">
+        <tr>
+            <td style="border:1px solid blue;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThf1dVczmUwYT0ZCpFiXPr4ZIxyzQUdcDqMq3-FPSWmQ&s"> Вид спорту</td>
+            <td style="border:1px solid blue;"> <img src="https://lifeimg.pravda.com/images/doc/7/5/7507c35-depositphotos-35699393-xl.jpg">Час</td>
+            <td style="border:1px solid blue;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwZS5WKWiPo8rIAS2eZolJVQIXklYnVE1ug&s">День</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThf1dVczmUwYT0ZCpFiXPr4ZIxyzQUdcDqMq3-FPSWmQ&s">Волейбол</td>
+            <td style="border:1px solid blue;"> <img src="https://lifeimg.pravda.com/images/doc/7/5/7507c35-depositphotos-35699393-xl.jpg">  12:00</td>
+            <td style="border:1px solid blue;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwZS5WKWiPo8rIAS2eZolJVQIXklYnVE1ug&s">Понеділок</td>
+            
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThf1dVczmUwYT0ZCpFiXPr4ZIxyzQUdcDqMq3-FPSWmQ&s">Баскетбол</td>
+            <td style="border:1px solid blue;"> <img src="https://lifeimg.pravda.com/images/doc/7/5/7507c35-depositphotos-35699393-xl.jpg"> 15:00    </td>
+            <td style="border:1px solid blue;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwZS5WKWiPo8rIAS2eZolJVQIXklYnVE1ug&s"> Вівторок</td> 
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThf1dVczmUwYT0ZCpFiXPr4ZIxyzQUdcDqMq3-FPSWmQ&s">Легка атлетика</td>
+            <td style="border:1px solid blue;"> <img src="https://lifeimg.pravda.com/images/doc/7/5/7507c35-depositphotos-35699393-xl.jpg"> 16:00 </td>
+            <td style="border:1px solid blue;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwZS5WKWiPo8rIAS2eZolJVQIXklYnVE1ug&s">Середа </td>
+        </tr>
+</table>
+    </main>
+    <footer>
+        Деталі зі номером 0966618430
+    </footer>
+
+    </html>
